@@ -25,8 +25,7 @@ The dataset should be in CSV or DataFrame format with the following structure:
 | "Photosynthesis is essential for plant life." | Medium |
 | "Quantum mechanics is the foundation of modern physics." | Hard |
 | "یہ ایک آسان جملہ ہے۔" | Easy |
-| "دماغی بیماریوں کی تشخیص اور علاج کا سائنسی عمل مشکل ہے۔" | Hard |
-
+| "دماغی بیماریوں کی تشخیص اور علاج کا سائنسی عمل مشکل ہے۔" | Hard 
 ## 🛠️ Installation
 
 Install the required libraries by running:
